@@ -6,4 +6,3 @@ def ada():
     print(fullname.title().strip())
     print(fullname.upper().strip())
     print(fullname.lower())
-ada()   
